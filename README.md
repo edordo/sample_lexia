@@ -2,8 +2,7 @@
 
 ## Setup
 ### PHP
-This project uses PHP8.2. It will probably work on earlier versions as well, as it is not complex
-You can download PHP from here:
+This project uses PHP8.2. It will probably work on earlier versions as well, as it is not complex. You can download PHP from here:
 
 https://www.php.net/downloads.php
 
