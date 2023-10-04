@@ -1,5 +1,20 @@
 # Animal Project
 
+## Setup
+### PHP
+This project uses PHP8.2. It will probably work on earlier versions as well, as it is not complex
+You can download PHP from here:
+https://www.php.net/downloads.php
+
+### composer
+This project uses composer. If you do not have already you can get from here:
+https://getcomposer.org/doc/00-intro.md
+
+### setup using composer
+After installing PHP and composer, execute the following to have composer install everything:
+composer update
+
+
 ## Coding Standards
 To check for coding standards please run 
 ./vendor/bin/phpcs src
