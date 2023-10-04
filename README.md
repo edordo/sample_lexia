@@ -38,3 +38,8 @@ Unit tests can be run via
 ```
 ## Usage
     php AnimalProject.php "name" "animal"
+
+## Future Improvements
+* Integrate unit tests with CI\
+Started working to integrate with github runner, see the ci folder and .gitlab-ci.yml files. Should either make it work, remove the debris from the repo, or move the work in progress to a separate branch
+* Figure out why autoload isn't working properly
