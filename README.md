@@ -43,3 +43,5 @@ Unit tests can be run via
 * Integrate unit tests with CI\
 Started working to integrate with github runner, see the ci folder and .gitlab-ci.yml files. Should either make it work, remove the debris from the repo, or move the work in progress to a separate branch
 * Figure out why autoload isn't working properly
+* Either clean up the formatting messages from phpcs or update the formatting rules to ignore them
+* Make code coverage utility functional
