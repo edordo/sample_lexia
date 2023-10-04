@@ -14,19 +14,24 @@ https://getcomposer.org/doc/00-intro.md
 
 ### Setup Using Composer
 After installing PHP and composer, execute the following to have composer install everything:
-    composer update
-
+```
+composer update
+```
 
 ## Coding Standards
 To check for coding standards please run
-    ./vendor/bin/phpcs src
+```
+./vendor/bin/phpcs src
+```
 Some coding issues can be fixed by running
-    ./vendor/bin/phpcs src
-
+```
+./vendor/bin/phpcs src
+```
 ## Unit Tests
 Unit tests can be run via
-    ./vendor/bin/phpunit tests
-
+```
+./vendor/bin/phpunit tests
+```
 ## Folder Structure
 ```
 /src/ - Contains all source code for the project
